@@ -24,7 +24,7 @@ To encode latitude/longitude points:
     //Output _p~iF~ps|U_ulLnnqC_mqNvxq`@
     
 
-To decode a polyline into an array of latitude/longitude pairs:
+To decode a polyline into latitude/longitude points:
 
     //Decode Polyline
     var polyline = "_p~iF~ps|U_ulLnnqC_mqNvxq`@";
